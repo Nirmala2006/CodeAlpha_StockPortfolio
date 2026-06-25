@@ -38,7 +38,3 @@ The program uses a dictionary to store stock prices and allows users to input mu
 - GOOGLE → 2800
 - AMAZON → 3300
 
----
-
-## 👨‍💻 Author
-Internship Project - CodeAlpha Python Internship
